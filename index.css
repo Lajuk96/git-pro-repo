@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+    background-color: rgb(156, 148, 149);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 10%;
+    margin: 0 auto;
+    border: 2px solid white;
+}
+img{
+    width: 10vw;
+    border: none;
+    border-radius: 20px;
+}
+i{
+    margin: 10px;
+}
+.bio{
+    width: 50%;
+    margin: 0 auto;
+}
